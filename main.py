@@ -20,10 +20,6 @@ def find_mismatch(text):
             # Process closing bracket, write your code here
             pass
 
-
-#hdhhhhchhchc
-        print(hello)
-
 def main():
     text = input()
     mismatch = find_mismatch(text)
